@@ -1,0 +1,39 @@
+_repo: HeimatlosKinder-lieb-haben-1.-Band_20780
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 20780-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Spyri, Johanna
+    aliases:
+    - Spyri, Johanna Heusser
+    - Heusser, Johanna Louise
+    birthdate: 1827
+    deathdate: 1901
+    gutenberg_agent_id: '2491'
+    url: http://www.gutenberg.org/2009/agents/2491
+    wikipedia: http://en.wikipedia.org/wiki/Johanna_Spyri
+description: ''
+gutenberg_bookshelf:
+- Children's Literature
+- DE Kinderbuch
+gutenberg_issued: '2007-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20780'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Switzerland -- Fiction'
+- !lcsh 'Mountain life -- Juvenile fiction'
+tableOfContents: "Am Silser- und am Gardasee\r\nWie Wiselis Weg gefunden wird"
+title: 'Heimatlos
+
+  Geschichten für Kinder und auch für solche, welche die
+
+  Kinder lieb haben, 1. Band'
+url: http://www.gutenberg.org/ebooks/20780
